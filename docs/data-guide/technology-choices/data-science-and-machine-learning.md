@@ -48,7 +48,7 @@ The following development platforms and tools are available for machine learning
 | Platforms/tools | What it is | What you can do with it |
 |-|-|-|
 | [Azure Data Science Virtual Machine](#azure-data-science-virtual-machine) | Virtual machine with pre-installed data science tools | Develop machine learning solutions in a pre-configured environment |
-| [Azure Databricks](#azure-databricks) | Spark-based analytics platform | Build and deploy models and data workflows |
+| [Azure Databricks](#azure-databricks) | Apache Spark™-based analytics platform | Build and deploy models and data workflows |
 | [ML.NET](#mlnet) | Open-source, cross-platform machine learning SDK | Develop machine learning solutions for .NET applications |
 | [Windows ML](#windows-ml) | Windows 10 machine learning platform | Evaluate trained models on a Windows 10 device |
 
